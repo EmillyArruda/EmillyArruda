@@ -1,5 +1,6 @@
 ### 🌸 Olá, me chamo Emilly Arruda 🌸
-- 💻Atualmente estudando Javascript e Python
+Sou técnica em informática 
+- 💻Atualmente estudando Javascript, Python e Dart
 <!--
 **EmillyArruda/EmillyArruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
